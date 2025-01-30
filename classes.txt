@@ -1,0 +1,8 @@
+green
+green_left
+green_yellowleft
+not_green
+not_green_left
+notgreen_greenleft
+notgreen_yellowleft
+null
